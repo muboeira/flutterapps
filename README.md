@@ -2,8 +2,8 @@
 
  ### Apps
 
- #### Buscador de Gif
+ - #### Buscador de Gif
 
- App que utiliza da API do GIPHY para que possa exibir os gifs desejados pelo usuário. Sendo uma busca ou os gifs mais populares no momento.
+   - App que utiliza da API do GIPHY para que possa exibir os gifs desejados pelo usuário. Sendo uma busca ou os gifs mais populares no momento.
 
 ![api url](https://i.imgur.com/QqWGXlR.png)

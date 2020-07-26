@@ -1,9 +1,9 @@
-Alguns apps do curso de Flutter - Criação de Apps Android Flutter
+ ## Alguns apps do curso de Flutter - [Criação de Apps Android Flutter](https://www.udemy.com/course/curso-completo-flutter-app-android-ios)
 
-https://www.udemy.com/course/curso-completo-flutter-app-android-ios
+ ### Apps
 
-Buscador de Gif
+ #### Buscador de Gif
 
-Um simples app que busca gifs na API do GIPHY
+ App que utiliza da API do GIPHY para que possa exibir os gifs desejados pelo usuário. Sendo uma busca ou os gifs mais populares no momento.
 
 ![api url](https://i.imgur.com/QqWGXlR.png)
